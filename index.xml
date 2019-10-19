@@ -1,5 +1,5 @@
 <Response>
-    <Say voice="alice">
+    <Say voice="alice" language="pt-BR">
         Olá, detectamos um foco de incêndio na posição -20.81972 -49.37944
     </Say>
     <Pause length="1"/>
